@@ -8,6 +8,23 @@
 
 > This is a portfolio showcase for a private production codebase.
 
+![Landing Page](assets/hero.png)
+
+<p align="center">
+  <img src="assets/avatar_1.png" alt="Avatar Generation — Child" width="48%">
+  <img src="assets/avatar_2.png" alt="Avatar Generation — Pet" width="48%">
+</p>
+
+<p align="center">
+  <img src="assets/basket_view.png" alt="Shopping Cart" width="48%">
+  <img src="assets/admin_platform.png" alt="Admin Platform — Character Management" width="48%">
+</p>
+
+<p align="center">
+  <img src="assets/book_editor.png" alt="Book Page Editor with Overlays" width="48%">
+  <img src="assets/image_gen_tool.png" alt="Image Studio — AI Generation Tool" width="48%">
+</p>
+
 ---
 
 ## What It Does
@@ -298,30 +315,6 @@ This is a **one-person full-stack build** covering:
 - **Bilingual content** (English + Spanish) with per-field translations
 - **Production security** hardened from the start
 - **Component library** (~40 reusable server-rendered components)
-
----
-
-## Screenshots
-
-### Landing Page
-<!-- Replace assets/landing-page.png with your screenshot -->
-![Landing Page](assets/landing-page.png)
-
-### Avatar Generation Flow
-<!-- Replace assets/avatar-generation.gif with a screen recording GIF showing: upload photo → generate → polling → result -->
-![Avatar Generation](assets/avatar-generation.gif)
-
-### Personalization Flow
-<!-- Replace assets/personalization-flow.gif with a screen recording GIF walking through Step 0 → Step 1 → Step 2 -->
-![Personalization Flow](assets/personalization-flow.gif)
-
-### Admin Dashboard
-<!-- Replace assets/admin-dashboard.png with a screenshot of the Kanban job board -->
-![Admin Dashboard](assets/admin-dashboard.png)
-
-### The Finished Product
-<!-- Replace assets/printed-book.jpg with a photo of a physical printed book -->
-![Printed Book](assets/printed-book.jpg)
 
 ---
 
