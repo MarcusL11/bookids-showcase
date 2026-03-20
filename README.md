@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Bookids Logo" width="600">
+</p>
+
 # Bookids - AI-Powered Personalized Children's Books
 
 **A full-stack SaaS platform where parents create one-of-a-kind illustrated children's books — personalized with their child's name, appearance, and story details — printed and delivered worldwide.**
@@ -299,19 +303,25 @@ This is a **one-person full-stack build** covering:
 
 ## Screenshots
 
-> *Coming soon — screenshots and demo video of the personalization flow, admin dashboard, and generated books.*
+### Landing Page
+<!-- Replace assets/landing-page.png with your screenshot -->
+![Landing Page](assets/landing-page.png)
 
-<!--
-Suggested screenshots:
-1. Landing page / product showcase
-2. Template selection (Step 0)
-3. Character creation with avatar generation
-4. Book customization form
-5. Order review with pricing
-6. Admin dashboard (Kanban job board)
-7. Generated book PDF preview
-8. A printed book (physical product)
--->
+### Avatar Generation Flow
+<!-- Replace assets/avatar-generation.gif with a screen recording GIF showing: upload photo → generate → polling → result -->
+![Avatar Generation](assets/avatar-generation.gif)
+
+### Personalization Flow
+<!-- Replace assets/personalization-flow.gif with a screen recording GIF walking through Step 0 → Step 1 → Step 2 -->
+![Personalization Flow](assets/personalization-flow.gif)
+
+### Admin Dashboard
+<!-- Replace assets/admin-dashboard.png with a screenshot of the Kanban job board -->
+![Admin Dashboard](assets/admin-dashboard.png)
+
+### The Finished Product
+<!-- Replace assets/printed-book.jpg with a photo of a physical printed book -->
+![Printed Book](assets/printed-book.jpg)
 
 ---
 
