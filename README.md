@@ -4,7 +4,7 @@
 
 # Bookids - AI-Powered Personalized Children's Books
 
-**A full-stack SaaS platform where parents create one-of-a-kind illustrated children's books — personalized with their child's name, appearance, and story details — printed and delivered worldwide.**
+**A full-stack Book Creation Platform where parents create one of a kind illustrated children's books personalized with their child's name, appearance, and story details — printed and delivered worldwide.**
 
 > This is a portfolio showcase for a private production codebase.
 
@@ -288,7 +288,7 @@ ShippingRate
 | Payments | Stripe | Live + test environments, webhook processing |
 | Email | Resend (via django-anymail) | Transactional emails |
 | Print | Peecho | Catalog sync, order submission, tracking |
-| AI | OpenAI | GPT-image-1, DALL-E 3 |
+| AI | OpenAI | GPT-image-1.5, Google Flash Image  |
 
 **Security posture:**
 - HSTS with preload (1 year)
@@ -315,13 +315,3 @@ This is a **one-person full-stack build** covering:
 - **Bilingual content** (English + Spanish) with per-field translations
 - **Production security** hardened from the start
 - **Component library** (~40 reusable server-rendered components)
-
----
-
-## Contact
-
-**Marcus A. Lee**
-- GitHub: [@MarcusL11](https://github.com/MarcusL11)
-- Twitter: [@marcusalee_](https://twitter.com/marcusalee_)
-
-*Source code available for interview purposes — reach out to request collaborator access.*
